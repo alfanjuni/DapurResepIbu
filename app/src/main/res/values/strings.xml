@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Dapur Resep Ibu</string>
+    <string-array name="resep">
+        <item>Sushi\n</item>
+        <item>Chicken Katsu\n</item>
+        <item>Beef Teriyaki\n</item>
+        <item>Ebi katsu\n</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Sushi adalah makanan khas Jepang yang populer di seluruh dunia atau menjadi populer saat ini. Di Negara selain Jepang, Sushi berkembang secara unik dimana menunjukan budaya makanan negara tersendiri, seperti Sushi dengan Apokat, Keju, Udang Goreng, dan lain-lain di dalamnya. Saat ini, di luar negeri pun Sushi sudah dapat dinikmati dengan mudah di Sushi Bar atau Restoran Jepang.</item>
+        <item>Chicken Katsu adalah masakan khas jepang yang memiliki saus seperti kecap bewarna hitam.</item>
+        <item>Beef Teriyaki adalah masakan khas jepang berbahan utama daging sapi. </item>
+        <item>Ebi katsu adalah maskan khas jepang berbahan utama udang. </item>
+    </string-array>
+    <string-array name="bahan">
+        <item>  Bahan-bahan yang diperlukan:\n
+
+                1. 1 Lembar Nori \n
+                2. 1 sendok Nasi\n
+                3. 1 sosis belah 4 goreng \n
+                4. 1 crab Stick bagi 2 \n
+                5. 2 Stick Nugget goreng \n
+                6. Mayonaise \n
+                7. Kecap shoyu \n
+        </item>
+        <item>
+                Bahan : \n
+
+                1. 250 gr Dada Ayam (Iris tipis Filet) \n
+                2. Secukupnya Minyak untuk menggoreng \n
+                3. Bumbu Marinasi : \n
+                4. 3 siung Bawang Putih \n
+                5. Secukupnya Merica \n
+                6. Secukupnya garam dan penyedap rasa \n
+                7. Bahan celup : \n
+                8. 2 sdm Tepung serbaguna (sajiku) \n
+                9. 1 sdm Tepung Maizena \n
+                10. 1 butir Telur \n
+                11. 3 sdm Tepung Roti (mamasuka) \n
+        </item>
+        <item>
+                Bahan : \n
+
+1/4 kg daging sapi khas dalam \n
+1 pcs bawang bombai \n
+3 pcs Cabai merah (optional) \n
+2 pcs cabai hijau (optional) \n
+2 pcs bawang putih \n
+2 pcs bawang merah \n
+1 ruas jahe - digeprek \n
+2 sdm garam \n
+1 sdm gula pasir \n
+1 sdm merica bubuk \n
+2 sdm saus tiram \n
+2 sdm kecap manis \n
+secukupnya Air putih \n
+3 sdm Minyak goreng \n
+
+        </item>
+        <item>
+                Bahan : \n
+
+1. 125 gr udang uk sedang \n
+2. 1 scht Tepung bumbu kobe \n
+3. 1 btr telur \n
+4. Secukupnya tepung panir \n
+        </item>
+    </string-array>
+    <string-array name="cara">
+        <item>
+                Cara Memasak : \n
+                1. Siapkan semua bahan lalu taruh nori dan diatasnya taruh nasi agak tipis2 merata.\n
+                2. Tambahkan sosis goreng, nugget, crab stick lalu gulung perlahan dan dipadatkan \n
+                3. Potong sushi, sebelumnya pastikan pisaunya basah agar nasi tidak menempel. \n
+                4. Tata sushi di piring lalu kasih topping mayonaise.sajikan dengan Shoyu. . \n
+        </item>
+        <item>  Cara Memasak : \n
+
+
+1. Cuci ayam hingga bersih. Kemudian pukul" agar tekstur nya lembut. Kemudian rendam ayam dgn bumbu kurleb 1 jam hingga meresap. \n
+
+2. Jika sdh meresap. Siapkan bahan celupan. Dibagi 3 wadah, yaitu : 1. campur tepung serbaguna dan maizena lalu aduk. 2. Telur di kocok. 3. Tepung Roti. Gulingkan ayam sesuai urutannya. \n
+
+3. Goreng dengan api kecil agar tidak cepat gosong tepungnya dan bisa matang merata dengan cara panaskan minyak lalu kecilkan api. \n
+
+
+        </item>
+        <item>
+                Cara Memasak : \n
+
+
+Cuci bersih daging sapi yang sudah dipotong tipis2. \n
+
+Haluskan : bawang merah, bawang putih. \n
+
+Jika sudah halus campurkan jahe. Lalu masukan kedalam mangkok. \n
+
+Tambahkan : merica bubuk, saus tiram, 2 sdm kecap manis. Aduk hingga rata. \n
+
+Setelah rata, masukan daging. Aduk hingga rata. Diamkan selama 1-2 jam agar bumbu merasuk dengan baik. (Proses marinase) \n
+
+        </item>
+        <item>
+                Cara Memasak : \n
+
+
+Cuci bersih udang, kupas, buang kotoran perutnya, sisakan bagian ekor. Kemudian tata secara memanjang.\n
+
+Siapkan 3 wadah masing-masing untuk tepung k*be, telur, dan tepung panir. \n
+
+Guling-guling kan udang ke tepung k*be. Kemudian celupkan ke telur yg sebelumnya sudah dikocok. Ulangi proses ini 2x yaa bund biar kliatan aga gendut ebinya. Hehe \n
+
+Lumuri dengan tepung panir. \n
+
+        </item>
+    </string-array>
+    <string-array name="title">
+        <item>Cara 1</item>
+        <item>Cara 2</item>
+        <item>Cara 3 </item>
+        <item>Cara 4 </item>
+    </string-array>
+
+
+</resources>
